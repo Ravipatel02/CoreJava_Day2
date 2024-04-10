@@ -1,0 +1,25 @@
+Step 1 - 
+
+write java code on node pad .
+
+step 2 - 
+ file name save .java file name.
+ 
+ step 3-
+ 
+ open CMD and go to file location where save java file,
+ 
+ first compile java file 
+ 
+ like this command  -- javac (file name like hello.java);
+ 
+ then enter 
+ 
+ when code compile success fuly compiler generated class file like class name
+ 
+ 
+ Second step -
+ 
+ run java code like this cammand like - java Hello (here Hello class file name)
+ 
+ out put generated on cmd
