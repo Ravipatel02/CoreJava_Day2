@@ -1,0 +1,5 @@
+Create a system, The system should manage books, journals, and multimedia resources, with classes for each 
+type of resource inheriting from a base class. Implement methods for checking out and returning items, using
+ polymorphism to handle different item types. Use interfaces to abstract the functionality for searchable 
+ items and encapsulate data to ensure that direct access to item states is restricted, demonstrating data
+  protection and manipulation through public methods
