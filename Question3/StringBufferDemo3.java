@@ -1,4 +1,4 @@
-package Question2CompairTime;
+package Question3;
 
 public class StringBufferDemo3 {
 	
